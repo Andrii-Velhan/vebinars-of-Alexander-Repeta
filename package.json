@@ -20,7 +20,8 @@
   "homepage": "https://github.com/Andrii-Velhan/vebinars-of-Alexander-Repeta#readme",
   "dependencies": {
     "joi": "^17.2.1",
-    "shortid": "^2.2.15"
+    "shortid": "^2.2.15",
+    "validate-password": "^1.0.4"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
